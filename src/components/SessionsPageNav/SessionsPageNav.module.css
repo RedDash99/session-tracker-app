@@ -1,0 +1,10 @@
+.nav {
+  display: flex;
+  align-items: center;
+  column-gap: var(--gap-1);
+}
+
+.link {
+  font-size: 15px;
+  padding: 8px 12px;
+}

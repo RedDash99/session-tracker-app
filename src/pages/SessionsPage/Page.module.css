@@ -1,0 +1,21 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  margin-top: var(--gap-6);
+  padding: 1rem;
+  background-color: var(--white-clr);
+}
+
+
+/* @media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+@media (min-width: 1280px) {
+
+} */

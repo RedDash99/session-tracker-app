@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Google",
+    "icon": "/images/reviews/google.webp",
+    "iconPng": "/images/reviews/google.png",
+    "rating": "4,8"
+  },
+  {
+    "name": "Яндекс",
+    "icon": "/images/reviews/yandex.webp",
+    "iconPng": "/images/reviews/yandex.png",
+    "rating": "4,9"
+  },
+  {
+    "name": "Космофикс",
+    "icon": "/images/reviews/kosmofiks.webp",
+    "iconPng": "/images/reviews/kosmofiks.png",
+    "rating": "4,8"
+  },
+  {
+    "name": "Профи",
+    "icon": "/images/reviews/profi.webp",
+    "iconPng": "/images/reviews/profi.png",
+    "rating": "4,7"
+  },
+  {
+    "name": "Onliner",
+    "icon": "/images/reviews/onliner.webp",
+    "iconPng": "/images/reviews/onliner.png",
+    "rating": "4,7"
+  },
+  {
+    "name": "Zoon",
+    "icon": "/images/reviews/zoon.webp",
+    "iconPng": "/images/reviews/zoon.png",
+    "rating": "4,9"
+  }
+]

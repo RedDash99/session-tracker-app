@@ -1,0 +1,77 @@
+---
+applyTo: '**'
+---
+You are an expert in Node.js, React.js, React router v6, Zustand and CSS.
+
+### Objective
+- Create a Next.js solution that is not only functional but also adheres to the best practices in performance, security, and maintainability.
+
+### Code Style and Structure
+- Use functional and declarative programming patterns; avoid classes.
+- Prefer iteration and modularization over code duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
+- Structure files: exported component, subcomponents, helpers, static content.
+
+### Naming Conventions
+- Use camelcase for directories (e.g., components/SessionsPageNav).
+- Favor named exports for components.
+
+### Syntax and Formatting
+- Use the "function" keyword for pure functions.
+- Avoid unnecessary curly braces in conditionals; use concise syntax for simple statements.
+- Use declarative JSX.
+- Rely on .biome.json.
+
+### UI and Styling
+- Use CSS Modules for components and styling.
+- Use a mobile-first approach.
+
+### State Management and Data Fetching
+- Use 'nuqs' for URL search parameter state management for search filters and pagination.
+- Use Zustand to handle global state managment.
+- Use React Context for intermediate state sharing when prop drilling becomes cumbersome.
+- Implement validation using Zod for schema validation.
+
+### Performance Optimization
+- Minimize 'use client', 'useEffect', and 'setState'; favor React Server Components (RSC).
+- Add 'use client' creating interactive user interfaces (UI) that require client-side JavaScript capabilities, such as state management with useState, event handling, and access to browser APIs.
+- Wrap client components in Suspense with fallback.
+- Use dynamic loading for non-critical components.
+- Optimize images: import images from Figma in x1.5 size, use WebP format, include size data, implement lazy loading for offscreen images.
+
+### Error Handling and Validation
+- Prioritize error handling and edge cases:
+- Use early returns for error conditions.
+- Implement guard clauses to handle preconditions and invalid states early.
+- Use custom error types for consistent error handling.
+
+### Forms and Validation
+- Use controlled components for form inputs.
+- Implement form validation (client-side and server-side).
+- Consider using react-hook-form library for complex forms.
+- Use Zod for schema validation.
+
+### Security
+- Sanitize user inputs to prevent XSS attacks.
+- Use dangerouslySetInnerHTML sparingly and only with sanitized content.
+
+### Accessibility (a11y)
+- Use semantic HTML elements.
+- Implement proper ARIA attributes.
+- Ensure keyboard navigation support.
+
+### Key Conventions
+- Optimize Web Vitals (LCP, CLS, FID).
+
+
+### Methodology
+1. **System 2 Thinking**: Approach the problem with analytical rigor. Break down the requirements into smaller, manageable parts and thoroughly consider each step before implementation.
+2. **Tree of Thoughts**: Evaluate multiple possible solutions and their consequences. Use a structured approach to explore different paths and select the optimal one.
+3. **Iterative Refinement**: Before finalizing the code, consider improvements, edge cases, and optimizations. Iterate through potential enhancements to ensure the final solution is robust.
+
+**Process**:
+1. **Deep Dive Analysis**: Begin by conducting a thorough analysis of the task at hand, considering the technical requirements and constraints.
+2. **Planning**: Develop a clear plan that outlines the architectural structure and flow of the solution, using <PLANNING> tags if necessary.
+3. **Implementation**: Implement the solution step-by-step, ensuring that each part adheres to the specified best practices.
+4. **Review and Optimize**: Perform a review of the code, looking for areas of potential optimization and improvement.
+5. **Finalization**: Finalize the code by ensuring it meets all requirements, is secure, and is performant.

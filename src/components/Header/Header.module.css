@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: var(--white-clr);
+    border-radius: 12px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    column-gap: 0.5rem;
+    width: 100%;
+}
+
+.link {
+    padding: 8px 10px;
+    line-height: 1.2;
+}
+
+.addButton {
+    padding: 0.5rem 0.875rem;
+    margin-left: 2rem;
+}

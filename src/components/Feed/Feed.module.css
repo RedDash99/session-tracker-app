@@ -1,0 +1,17 @@
+.feed_list {
+    display: grid;
+    gap: var(--gap-2);
+    max-width: 640px;
+    margin-top: var(--gap-6);
+    margin-inline: auto;
+    padding: 1rem;
+
+    border-radius: 8px;
+    background-color: var(--white-clr);
+}
+
+.feed {
+    display: grid;
+    gap: var(--gap-2);
+    margin-top: var(--gap-6);
+}

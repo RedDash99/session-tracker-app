@@ -1,0 +1,24 @@
+.modal_wrapper {
+  width: 100%;
+  padding-right: var(--container-padding);
+  padding-left: var(--container-padding);
+  margin-right: auto;
+  margin-left: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 50;
+}
+
+@media (min-width: 414px) {
+  .modal_wrapper {
+    width: auto;
+    padding: 0;
+  }
+}

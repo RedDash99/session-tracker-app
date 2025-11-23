@@ -1,0 +1,106 @@
+{
+  "servicemenList": [
+    {
+      "image": "/images/servicemen/person-1.jpg",
+      "imageWebp": "/images/servicemen/person-1.webp",
+      "imageAlt": "",
+      "name": "Арлашкин И.",
+      "rating": "4,95",
+      "jobsDone": "1872"
+    },
+    {
+      "image": "/images/servicemen/person-2.jpg",
+      "imageWebp": "/images/servicemen/person-2.webp",
+      "imageAlt": "",
+      "name": "Пацкевич Д.",
+      "rating": "4,93",
+      "jobsDone": "2345"
+    },
+    {
+      "image": "/images/servicemen/person-3.jpg",
+      "imageWebp": "/images/servicemen/person-3.webp",
+      "imageAlt": "",
+      "name": "Серов А.",
+      "rating": "4,97",
+      "jobsDone": "1567"
+    },
+    {
+      "image": "/images/servicemen/person-4.jpg",
+      "imageWebp": "/images/servicemen/person-4.webp",
+      "imageAlt": "",
+      "name": "Мищенко Л.",
+      "rating": "4,72",
+      "jobsDone": "2891"
+    },
+    {
+      "image": "/images/servicemen/person-5.jpg",
+      "imageWebp": "/images/servicemen/person-5.webp",
+      "imageAlt": "",
+      "name": "Корчагин П.",
+      "rating": "4,84",
+      "jobsDone": "672"
+    },
+    {
+      "image": "/images/servicemen/person-6.jpg",
+      "imageWebp": "/images/servicemen/person-6.webp",
+      "imageAlt": "",
+      "name": "Литвинчук Е.",
+      "rating": "4,89",
+      "jobsDone": "1532"
+    },
+    {
+      "image": "/images/servicemen/person-7.jpg",
+      "imageWebp": "/images/servicemen/person-7.webp",
+      "imageAlt": "",
+      "name": "Якушев С.",
+      "rating": "4,9",
+      "jobsDone": "2987"
+    },
+    {
+      "image": "/images/servicemen/person-8.jpg",
+      "imageWebp": "/images/servicemen/person-8.webp",
+      "imageAlt": "",
+      "name": "Третьяков Н.",
+      "rating": "4,88",
+      "jobsDone": "845"
+    },
+    {
+      "image": "/images/servicemen/person-9.jpg",
+      "imageWebp": "/images/servicemen/person-9.webp",
+      "imageAlt": "",
+      "name": "Шевченко В.",
+      "rating": "4,95",
+      "jobsDone": "2134"
+    },
+    {
+      "image": "/images/servicemen/person-10.jpg",
+      "imageWebp": "/images/servicemen/person-10.webp",
+      "imageAlt": "",
+      "name": "Буторин Ю.",
+      "rating": "4,87",
+      "jobsDone": "1765"
+    }
+  ],
+  "advantagesList": [
+    {
+      "icon": "/images/best-icon.svg",
+      "iconAlt": "",
+      "title": "Лучшие частные мастера"
+    },
+    {
+      "icon": "/images/crown-icon.svg",
+      "iconAlt": "",
+      "title": "Высочайшие оценки"
+    },
+    {
+      "icon": "/images/certificate-icon.svg",
+      "iconAlt": "",
+      "title": "Тщательнейшая проверка"
+    },
+    {
+      "icon": "/images/sorting-icon.svg",
+      "iconAlt": "",
+      "title": "Строгий\nподбор"
+    }
+  ]
+}
