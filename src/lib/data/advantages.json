@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "/images/shield-icon.svg",
+    "iconAlt": "",
+    "text": "Отремонтируем с гарантией до 18 месяцев"
+  },
+  {
+    "icon": "/images/clock-icon.svg",
+    "iconAlt": "",
+    "text": "9 из 10 ремонтов проводим день в день"
+  },
+  {
+    "icon": "/images/trust-icon.svg",
+    "iconAlt": "",
+    "text": "Профессиональные и проверенные мастера"
+  },
+  {
+    "icon": "/images/calculator-icon.svg",
+    "iconAlt": "",
+    "text": "Проконсультируем и рассчитаем цену заранее"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "sectionTitle": "Остались вопросы?",
+  "sectionSubtitle": "Всю необходимую информацию вам сможет подсказать наш дежурный мастер.",
+  "listOfQuestions": [
+    {
+      "icon": "/images/priceTag-icon.svg",
+      "iconAlt": "Бирка",
+      "text": "Узнать цену ремонта"
+    },
+    {
+      "icon": "/images/gear-icon.svg",
+      "iconAlt": "Шестерня",
+      "text": "Проверить наличие запчастей"
+    },
+    {
+      "icon": "/images/calendar-icon.svg",
+      "iconAlt": "Календарь",
+      "text": "Уточнить сроки ремонта"
+    },
+    {
+      "icon": "/images/question-mark-icon-alt.svg",
+      "iconAlt": "Знак вопроса",
+      "text": "Получить консультацию"
+    }
+  ]
+}

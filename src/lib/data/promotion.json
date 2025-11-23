@@ -1,0 +1,13 @@
+{
+  "event": {
+    "text": null,
+    "endDay": null
+  },
+  "discount": 20,
+  "timer": {
+    "days": 0,
+    "hours": 1,
+    "minutes": 20,
+    "seconds": 0
+  }
+}

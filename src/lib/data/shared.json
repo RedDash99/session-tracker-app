@@ -1,0 +1,73 @@
+{
+  "email": "feedback@kosmofiks.by",
+  "metrikaId": 100184710,
+  "currency": "р.",
+  "navigation": [
+    {
+      "label": "Главная",
+      "link": "#hero"
+    },
+    {
+      "label": "Преимущества",
+      "link": "#advantages"
+    },
+    {
+      "label": "Калькулятор",
+      "link": "#calculations"
+    },
+    {
+      "label": "Скидки и акции",
+      "link": "#about-promotion"
+    },
+    {
+      "label": "О мастерах",
+      "link": "#about-servicemen"
+    },
+    {
+      "label": "Отзывы",
+      "link": "#testimonials"
+    },
+    {
+      "label": "Оценки и рейтинги",
+      "link": "#reviews"
+    },
+    {
+      "label": "Последние заказы",
+      "link": "#recent-orders"
+    },
+    {
+      "label": "Гарантии",
+      "link": "#guarantee"
+    },
+    {
+      "label": "Вопросы",
+      "link": "#faq"
+    },
+    {
+      "label": "Контакты",
+      "link": "#contacts"
+    }
+  ],
+  "aboutCompany": {
+    "title": "Информация о компании",
+    "data": [
+      {
+        "label": "Наименование", 
+        "value": "ИП АВАЙСОВ ИМАМ АДАМОВИЧ"
+      },
+      {
+        "label": "ИНН", 
+        "value": "671206726617"
+      },
+      {
+        "label": "Расчетный счет", 
+        "value": "40802810000008330238"
+      }
+    ],
+    "address": "Минск, пр. Машерова, 78, цокольный этаж",
+    "workTime": {
+      "Пн-Сб": "09:00–21:00",
+      "Вс": "10:00-20:00"
+    }
+  } 
+}

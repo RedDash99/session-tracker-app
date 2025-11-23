@@ -1,0 +1,37 @@
+.feedCard {
+  padding: 12px;
+  border-radius: 12px;
+  background-color: var(--light-light-gray-clr);
+  transition-property: transform;
+  transition-duration: 0.5s;
+  transition-timing-function: var(--bezier);
+}
+
+@media (hover: hover) {
+  .feedCard:hover {
+    transform: scale(1.02);
+  }
+}
+
+.feedCard_timeline {
+  font-size: 14px;
+  text-align: left;
+  letter-spacing: 0.02em;
+  color: var(--light-secondary-text-clr);
+  margin-bottom: var(--gap-2);
+}
+
+.feedCard_body {
+  color: var(--light-primary-text-clr);
+  display: flex;
+  column-gap: var(--gap-2);
+}
+
+.feedCard_title {
+  font-weight: 400;
+  font-size: inherit;
+}
+
+.feedCard_description {
+  text-align: left;
+}

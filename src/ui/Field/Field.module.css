@@ -1,0 +1,15 @@
+.input {
+  border-radius: 8px;
+  background-color: var(--white-clr);
+  padding: 12px;
+  color: var(--light-primary-text-clr);
+  border: 1px solid var(--light-lines-clr);
+}
+
+.input.hidden {
+  display: none;
+}
+
+.input.visible {
+  display: block;
+}

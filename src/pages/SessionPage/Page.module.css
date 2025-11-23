@@ -1,0 +1,74 @@
+.page {
+  width: 100%;
+  margin: var(--gap-6) auto 0;
+  padding-inline: 120px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start;
+  column-gap: var(--gap-6);
+}
+
+.panel {
+  padding: 1.5rem;
+  background-color: var(--white-clr);
+  border-radius: 12px;
+}
+
+.panel_title {
+  font-size: 17px;
+  line-height: 1.2;
+  margin-bottom: var(--gap-2);
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  row-gap: var(--gap-1);
+  list-style: square;
+  padding-left: 1rem;
+}
+
+.list:not(:only-child) {
+  margin-top: var(--gap-4);
+}
+
+.addNewButton {
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 2px;
+  border: none;
+  background-color: transparent;
+  transition: all 0.5s var(--bezier-1);
+}
+
+.addNewButton svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  outline: 1px solid var(--white-clr);
+  border-radius: 100%;
+}
+
+.addNewButton_line {
+  width: 100%;
+  height: 1px;
+  background-image: var(--light-blue-gradient-clr);
+}
+
+@media (hover: hover) {
+  .list:hover .addNewButton {
+    visibility: visible;
+    opacity: 1;
+    height: 2rem;
+  }
+}

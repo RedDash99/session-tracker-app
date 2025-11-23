@@ -1,0 +1,197 @@
+{
+  "sectionTitle": "Последние отзывы",
+  "sectionSubtitle": "Мы читаем каждый отзыв — он помогает нам становиться лучше. Ни одно мнение не остаётся без внимания. Поделитесь своим опытом здесь или на независимых площадках.",
+  "reviews": [
+    {
+      "name": "Google",
+      "icon": "/images/reviews/google.webp",
+      "iconPng": "/images/reviews/google.png",
+      "rating": "4,8"
+    },
+    {
+      "name": "Яндекс",
+      "icon": "/images/reviews/yandex.webp",
+      "iconPng": "/images/reviews/yandex.png",
+      "rating": "4,9"
+    },
+    {
+      "name": "Отзовик",
+      "icon": "/images/reviews/otzovik.webp",
+      "iconPng": "/images/reviews/otzovik.png",
+      "rating": "4,5"
+    },
+    {
+      "name": "Профи",
+      "icon": "/images/reviews/profi.webp",
+      "iconPng": "/images/reviews/profi.png",
+      "rating": "4,7"
+    },
+    {
+      "name": "Onliner",
+      "icon": "/images/reviews/onliner.webp",
+      "iconPng": "/images/reviews/onliner.png",
+      "rating": "4,7"
+    },
+    {
+      "name": "Zoon",
+      "icon": "/images/reviews/zoon.webp",
+      "iconPng": "/images/reviews/zoon.png",
+      "rating": "4,9"
+    }
+  ],
+  "orders": [
+    [
+      "#24112/055",
+      "20 мин. назад",
+      "Samsung",
+      "Не включается",
+      "160",
+      "Пацкевич С.",
+      "5",
+      "117",
+      "ст. м. Ковальская Слобода",
+      "Красная",
+      "Михаил Т.",
+      "5",
+      "Телевизор самсунг вдруг перестал включаться, думал, всё — конец. Обратился, быстро приехал мастер, нашёл проблему и починил прямо на месте. Всё чётко, быстро и по делу. Теперь работает как новый, спасибо! 💪"
+    ],
+    [
+      "#24112/056",
+      "20 мин. назад",
+      "Samsung",
+      "Не включается",
+      "160",
+      "Ляхович П.",
+      "5",
+      "117",
+      "ст. м. Ковальская Слобода",
+      "Зеленая",
+      "Михаил Т.",
+      "5",
+      "Телевизор самсунг вдруг перестал включаться, думал, всё — конец. Обратился, быстро приехал мастер, нашёл проблему и починил прямо на месте. Всё чётко, быстро и по делу. Теперь работает как новый, спасибо! 💪"
+    ],
+    [
+      "#24112/057",
+      "20 мин. назад",
+      "Samsung",
+      "Не включается",
+      "160",
+      "Савельев И.",
+      "5",
+      "117",
+      "ст. м. Ковальская Слобода",
+      "Синяя",
+      "Михаил Т.",
+      "5",
+      "Телевизор самсунг вдруг перестал включаться, думал, всё — конец. Обратился, быстро приехал мастер, нашёл проблему и починил прямо на месте. Всё чётко, быстро и по делу. Теперь работает как новый, спасибо! 💪"
+    ],
+    [
+      "#24112/058",
+      "20 мин. назад",
+      "Samsung",
+      "Не включается",
+      "160",
+      "Савельев И.",
+      "5",
+      "117",
+      "ст. м. Ковальская Слобода",
+      "Красная",
+      "Михаил Т.",
+      "5",
+      "Телевизор самсунг вдруг перестал включаться, думал, всё — конец. Обратился, быстро приехал мастер, нашёл проблему и починил прямо на месте. Всё чётко, быстро и по делу. Теперь работает как новый, спасибо! 💪"
+    ]
+  ],
+  "servicemen": [
+    {
+      "name": "Арлашкин И.",
+      "avatar": "/images/servicemen/person-1-small.webp",
+      "avatarJpg": "/images/servicemen/person-1-small.jpg",
+      "ratingScore": 4.95,
+      "numberOfRatings": 217
+    },
+    {
+      "name": "Пацкевич Д.",
+      "avatar": "/images/servicemen/person-2-small.webp",
+      "avatarJpg": "/images/servicemen/person-2-small.jpg",
+      "ratingScore": 4.93,
+      "numberOfRatings": 37
+    },
+    {
+      "name": "Серов А.",
+      "avatar": "/images/servicemen/person-3-small.webp",
+      "avatarJpg": "/images/servicemen/person-3-small.jpg",
+      "ratingScore": 4.97,
+      "numberOfRatings": 70
+    },
+    {
+      "name": "Мищенко Л.",
+      "avatar": "/images/servicemen/person-4-small.webp",
+      "avatarJpg": "/images/servicemen/person-4-small.jpg",
+      "ratingScore": 4.72,
+      "numberOfRatings": 186
+    },
+    {
+      "name": "Корчагин П.",
+      "avatar": "/images/servicemen/person-5-small.webp",
+      "avatarJpg": "/images/servicemen/person-5-small.jpg",
+      "ratingScore": 4.84,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "Литвинчук Е.",
+      "avatar": "/images/servicemen/person-6-small.webp",
+      "avatarJpg": "/images/servicemen/person-6-small.jpg",
+      "ratingScore": 4.89,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "Якушев С.",
+      "avatar": "/images/servicemen/person-7-small.webp",
+      "avatarJpg": "/images/servicemen/person-7-small.jpg",
+      "ratingScore": 4.9,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "Третьяков Н.",
+      "avatar": "/images/servicemen/person-8-small.webp",
+      "avatarJpg": "/images/servicemen/person-8-small.jpg",
+      "ratingScore": 4.88,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "Шевченко В.",
+      "avatar": "/images/servicemen/person-9-small.webp",
+      "avatarJpg": "/images/servicemen/person-9-small.jpg",
+      "ratingScore": 4.95,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "Буторин Ю.",
+      "avatar": "/images/servicemen/person-10-small.webp",
+      "avatarJpg": "/images/servicemen/person-10-small.jpg",
+      "ratingScore": 4.87,
+      "numberOfRatings": 21
+    },
+    {
+      "name": "default",
+      "avatar": "/images/servicemen/default-avatar.svg",
+      "avatarJpg": "/images/servicemen/default-avatar.svg",
+      "ratingScore": 4.98,
+      "numberOfRatings": 21
+    }
+  ],
+  "metroLineColors": [
+    {
+      "name": "Красная",
+      "color": "#CC3333"
+    },
+    {
+      "name": "Зеленая",
+      "color": "#008000"
+    },
+    {
+      "name": "Синяя",
+      "color": "#094FA3"
+    }
+  ]
+}
